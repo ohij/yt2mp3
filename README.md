@@ -2,21 +2,6 @@
 
 yt2mp3 is a project that converts YouTube videos to MP3 files.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2. Open the project in Visual Studio Code:
-    ```bash
-    code yt2mp3
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the `app.py` file:
@@ -35,7 +20,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ```markdown
 MIT License
 
-Copyright (c) 2024 [ohij]
+Copyright (c) 2024 Ohij
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
