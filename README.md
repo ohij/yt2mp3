@@ -2,6 +2,17 @@
 
 yt2mp3 is a project that converts YouTube videos to MP3 files.
 
+## install
+
+1. install pytubefix
+    ```bash
+    pip install pytubefix
+    ```
+2. install gradio
+    ```bash
+    pip install gradio
+    ```
+
 ## Usage
 
 1. Run the `app.py` file:
